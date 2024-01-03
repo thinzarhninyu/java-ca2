@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- String Resources -->
+    <string name="course_name"  >DIT/FT/2A/21</string>
+    <string name="recommended_tutors"  >Recommended Tutors</string>
+    <string name="good_morning"  >Good Morning</string>
+    <string name="affix"  >Affix</string>
+    <string name="singapore_polytechnic" >Singapore Polytechnic</string>
+    <string name="william_shakespeare"  >William Shakespeare</string>
+
+
+</resources>
